@@ -6,7 +6,7 @@
 .nc-close:hover { background: rgba(35, 6, 3, 0.1); }
 .nc-stage-bg { position: absolute; inset: 0; width: 100%; height: 100%; max-width: none; object-fit: cover; }
 .nc-fan { position: absolute; top: 0; left: 50%; width: 336px; height: 201.594px; transform: translateX(-50%); }
-.nc-frame { position: absolute; box-sizing: border-box; width: 61.36px; height: 49.09px; overflow: hidden; border: 2.04px solid #956161; border-radius: 16.36px; background: #d9d9d9; transform-origin: center center; }
+.nc-frame { position: absolute; box-sizing: border-box; width: 61.36px; height: 49.09px; overflow: hidden; border: 0; border-radius: 4px; background: #d9d9d9; transform-origin: center center; }
 .nc-frame img { display: block; width: 100%; height: 100%; max-width: none; object-fit: cover; }
 .nc-body { padding: 20px 16px; background: #fff; }
 .nc-title { margin: 0; color: #230603; font-family: var(--font-good-sans), "Good Sans", sans-serif; font-size: 18px; font-weight: 500; line-height: normal; text-wrap: balance; }
